@@ -10,3 +10,5 @@ http://giraph.apache.org/
 Yahoo! Hadoop Tutorial
 https://developer.yahoo.com/hadoop/tutorial/
 
+http://cloudera.com/content/cloudera/en/training.html
+
